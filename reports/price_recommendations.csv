@@ -1,0 +1,53 @@
+product_id,category,current_price,avg_comp_price,recommended_price,price_change_pct,elasticity,elasticity_source,confidence,action,qty_change_pct,revenue_change_pct,profit_change_pct
+bed4,bed_bath_table,47.9,56.13,41.95,-12.4,-29.84,product,High,Decrease price,5143.4,4491.7,3514.2
+furniture2,furniture_decor,94.34,72.26,80.19,-15.0,-10.21,product,High,Decrease price,425.5,346.7,228.4
+cool2,cool_stuff,129.99,97.76,111.08,-14.5,-9.32,product,Medium,Decrease price,332.7,269.8,175.4
+furniture4,furniture_decor,87.42,72.26,74.61,-14.7,-7.41,category,Low,Decrease price,223.7,176.2,105.1
+perfumery2,perfumery,118.26,103.19,111.06,-6.1,-10.46,product,High,Decrease price,93.0,81.2,63.6
+bed1,bed_bath_table,39.74,52.25,37.28,-6.2,-9.9,product,High,Decrease price,88.3,76.7,59.2
+furniture1,furniture_decor,35.0,72.26,33.25,-5.0,-8.91,product,Medium,Decrease price,58.0,50.1,38.2
+furniture3,furniture_decor,35.0,72.41,32.85,-6.1,-7.41,category,Low,Decrease price,59.9,50.1,35.4
+health7,health_beauty,58.99,54.64,55.86,-5.3,-5.63,product,Medium,Decrease price,35.9,28.7,17.9
+watches8,watches_gifts,155.91,122.57,137.91,-11.5,-4.11,product,High,Decrease price,65.6,46.4,17.8
+garden1,garden_tools,96.1,49.9,85.49,-11.0,-4.13,product,High,Decrease price,62.2,44.3,17.4
+garden2,garden_tools,49.9,49.9,57.38,15.0,-1.2,category,Low,Increase price,-15.4,-2.7,16.3
+garden10,garden_tools,49.9,49.9,57.38,15.0,-1.2,category,Low,Increase price,-15.4,-2.7,16.3
+garden8,garden_tools,145.67,49.9,167.52,15.0,-1.2,category,Low,Increase price,-15.4,-2.7,16.3
+garden4,garden_tools,49.9,49.9,57.38,15.0,-1.2,category,Low,Increase price,-15.4,-2.7,16.3
+garden9,garden_tools,49.9,49.9,57.38,15.0,-1.2,category,Low,Increase price,-15.4,-2.7,16.3
+garden6,garden_tools,49.91,49.9,57.39,15.0,-1.2,category,Low,Increase price,-15.4,-2.7,16.3
+perfumery1,perfumery,49.99,72.61,47.49,-5.0,-4.89,category,Low,Decrease price,28.5,22.1,12.4
+garden7,garden_tools,49.9,49.9,47.4,-5.0,-4.84,product,High,Decrease price,28.2,21.8,12.2
+computers5,computers_accessories,85.6,115.84,73.3,-14.4,-3.5,product,Medium,Decrease price,72.1,47.3,10.2
+consoles1,consoles_games,36.2,36.2,31.06,-14.2,-3.32,product,High,Decrease price,66.3,42.7,7.3
+garden5,garden_tools,101.0,52.8,106.05,5.0,-1.2,category,Low,Increase price,-5.7,-1.0,6.1
+watches7,watches_gifts,224.74,120.21,197.47,-12.1,-3.16,product,High,Decrease price,50.4,32.2,4.8
+computers4,computers_accessories,118.16,115.43,108.77,-7.9,-3.22,product,Medium,Decrease price,30.5,20.2,4.6
+watches6,watches_gifts,116.45,122.57,103.02,-11.5,-3.11,product,Medium,Decrease price,46.4,29.6,4.2
+watches2,watches_gifts,138.96,122.57,124.19,-10.6,-3.05,category,Low,Decrease price,40.8,25.9,3.4
+watches5,watches_gifts,206.52,119.67,189.05,-8.5,-3.05,category,Low,Decrease price,30.9,19.8,3.2
+watches3,watches_gifts,77.94,122.57,73.93,-5.1,-3.05,category,Low,Decrease price,17.5,11.4,2.4
+watches4,watches_gifts,105.0,122.57,99.75,-5.0,-3.05,category,Low,Decrease price,16.9,11.1,2.3
+watches1,watches_gifts,146.26,122.57,138.23,-5.5,-2.74,product,High,Decrease price,16.7,10.3,0.7
+consoles2,consoles_games,33.15,33.22,33.89,2.2,-2.42,category,Low,Increase price,-5.2,-3.1,0.1
+bed2,bed_bath_table,77.28,64.77,77.77,0.6,-2.48,category,Low,Hold,-1.5,-0.9,0.0
+bed5,bed_bath_table,189.3,108.38,190.59,0.7,-2.48,category,Low,Hold,-1.7,-1.0,0.0
+bed3,bed_bath_table,84.9,67.31,85.43,0.6,-2.48,category,Low,Hold,-1.5,-0.9,0.0
+computers1,computers_accessories,73.08,115.43,73.38,0.4,-2.48,category,Low,Hold,-1.0,-0.6,0.0
+computers6,computers_accessories,149.9,115.43,150.49,0.4,-2.48,category,Low,Hold,-1.0,-0.6,0.0
+cool4,cool_stuff,173.6,102.98,173.6,0.0,,none,Low,Hold (no reliable elasticity),0.0,0.0,0.0
+cool5,cool_stuff,94.21,94.42,94.21,0.0,,none,Low,Hold (no reliable elasticity),0.0,0.0,0.0
+cool1,cool_stuff,96.61,94.42,96.61,0.0,,none,Low,Hold (no reliable elasticity),0.0,0.0,0.0
+cool3,cool_stuff,55.0,55.0,55.0,0.0,,none,Low,Hold (no reliable elasticity),0.0,0.0,0.0
+computers3,computers_accessories,133.62,130.77,134.15,0.4,-2.48,category,Low,Hold,-1.0,-0.6,0.0
+computers2,computers_accessories,78.23,115.43,78.58,0.4,-2.48,category,Low,Hold,-1.1,-0.6,0.0
+garden3,garden_tools,98.88,49.9,97.83,-1.1,-2.54,product,Medium,Decrease price,2.8,1.7,0.0
+health1,health_beauty,84.99,55.85,84.99,0.0,,none,Low,Hold (no reliable elasticity),0.0,0.0,0.0
+health3,health_beauty,122.99,54.64,122.99,0.0,,none,Low,Hold (no reliable elasticity),0.0,0.0,0.0
+health2,health_beauty,330.0,54.64,330.0,0.0,,none,Low,Hold (no reliable elasticity),0.0,0.0,0.0
+health10,health_beauty,50.73,54.64,50.73,0.0,,none,Low,Hold (no reliable elasticity),0.0,0.0,0.0
+health8,health_beauty,80.93,54.64,80.93,0.0,,none,Low,Hold (no reliable elasticity),0.0,0.0,0.0
+health4,health_beauty,29.9,54.64,29.9,0.0,,none,Low,Hold (no reliable elasticity),0.0,0.0,0.0
+health9,health_beauty,23.99,54.64,23.99,0.0,,none,Low,Hold (no reliable elasticity),0.0,0.0,0.0
+health5,health_beauty,364.0,54.64,364.0,0.0,,none,Low,Hold (no reliable elasticity),0.0,0.0,0.0
+health6,health_beauty,66.99,54.64,66.99,0.0,,none,Low,Hold (no reliable elasticity),0.0,0.0,0.0

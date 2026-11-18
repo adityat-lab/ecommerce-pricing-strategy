@@ -1,0 +1,18 @@
+{
+  "Baseline (product average)": {
+    "MAE": 12.27,
+    "R2": -0.901
+  },
+  "Ridge Regression": {
+    "MAE": 10.19,
+    "R2": -0.221
+  },
+  "Random Forest": {
+    "MAE": 8.03,
+    "R2": 0.229
+  },
+  "Gradient Boosting": {
+    "MAE": 8.81,
+    "R2": 0.02
+  }
+}

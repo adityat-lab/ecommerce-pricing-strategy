@@ -1,0 +1,678 @@
+[
+ {
+  "id": "bed1",
+  "cat": "bed_bath_table",
+  "p0": 39.74,
+  "q0": 7.0,
+  "e": -9.9,
+  "comp": [
+   77.28,
+   39.74,
+   39.74
+  ],
+  "conf": "High"
+ },
+ {
+  "id": "bed2",
+  "cat": "bed_bath_table",
+  "p0": 77.28,
+  "q0": 13.3,
+  "e": -2.48,
+  "comp": [
+   77.28,
+   77.28,
+   39.74
+  ],
+  "conf": "Low (category estimate)"
+ },
+ {
+  "id": "bed3",
+  "cat": "bed_bath_table",
+  "p0": 84.9,
+  "q0": 8.0,
+  "e": -2.48,
+  "comp": [
+   77.28,
+   84.9,
+   39.74
+  ],
+  "conf": "Low (category estimate)"
+ },
+ {
+  "id": "bed4",
+  "cat": "bed_bath_table",
+  "p0": 47.9,
+  "q0": 2.7,
+  "e": -29.84,
+  "comp": [
+   80.49,
+   47.9,
+   39.99
+  ],
+  "conf": "High"
+ },
+ {
+  "id": "bed5",
+  "cat": "bed_bath_table",
+  "p0": 189.3,
+  "q0": 47.7,
+  "e": -2.48,
+  "comp": [
+   89.9,
+   189.3,
+   45.95
+  ],
+  "conf": "Low (category estimate)"
+ },
+ {
+  "id": "computers1",
+  "cat": "computers_accessories",
+  "p0": 73.08,
+  "q0": 7.7,
+  "e": -2.48,
+  "comp": [
+   118.16,
+   149.9,
+   78.23
+  ],
+  "conf": "Low (category estimate)"
+ },
+ {
+  "id": "computers2",
+  "cat": "computers_accessories",
+  "p0": 78.23,
+  "q0": 6.3,
+  "e": -2.48,
+  "comp": [
+   118.16,
+   149.9,
+   78.23
+  ],
+  "conf": "Low (category estimate)"
+ },
+ {
+  "id": "computers3",
+  "cat": "computers_accessories",
+  "p0": 133.62,
+  "q0": 3.3,
+  "e": -2.48,
+  "comp": [
+   151.83,
+   145.05,
+   95.42
+  ],
+  "conf": "Low (category estimate)"
+ },
+ {
+  "id": "computers4",
+  "cat": "computers_accessories",
+  "p0": 118.16,
+  "q0": 15.3,
+  "e": -3.22,
+  "comp": [
+   118.16,
+   149.9,
+   78.23
+  ],
+  "conf": "Medium"
+ },
+ {
+  "id": "computers5",
+  "cat": "computers_accessories",
+  "p0": 85.6,
+  "q0": 5.3,
+  "e": -3.5,
+  "comp": [
+   118.47,
+   149.9,
+   79.16
+  ],
+  "conf": "Medium"
+ },
+ {
+  "id": "computers6",
+  "cat": "computers_accessories",
+  "p0": 149.9,
+  "q0": 15.0,
+  "e": -2.48,
+  "comp": [
+   118.16,
+   149.9,
+   78.23
+  ],
+  "conf": "Low (category estimate)"
+ },
+ {
+  "id": "consoles1",
+  "cat": "consoles_games",
+  "p0": 36.2,
+  "q0": 2.0,
+  "e": -3.32,
+  "comp": [
+   36.2,
+   36.2,
+   36.2
+  ],
+  "conf": "High"
+ },
+ {
+  "id": "consoles2",
+  "cat": "consoles_games",
+  "p0": 33.15,
+  "q0": 4.7,
+  "e": -2.42,
+  "comp": [
+   33.35,
+   33.15,
+   33.15
+  ],
+  "conf": "Low (category estimate)"
+ },
+ {
+  "id": "cool1",
+  "cat": "cool_stuff",
+  "p0": 96.61,
+  "q0": 2.0,
+  "e": -1.0,
+  "comp": [
+   96.61,
+   129.99,
+   56.66
+  ],
+  "conf": "Low (default -1.0)"
+ },
+ {
+  "id": "cool2",
+  "cat": "cool_stuff",
+  "p0": 129.99,
+  "q0": 1.3,
+  "e": -9.32,
+  "comp": [
+   96.61,
+   129.99,
+   66.66
+  ],
+  "conf": "Medium"
+ },
+ {
+  "id": "cool3",
+  "cat": "cool_stuff",
+  "p0": 55.0,
+  "q0": 2.3,
+  "e": -1.0,
+  "comp": [
+   55.0,
+   55.0,
+   55.0
+  ],
+  "conf": "Low (default -1.0)"
+ },
+ {
+  "id": "cool4",
+  "cat": "cool_stuff",
+  "p0": 173.6,
+  "q0": 8.3,
+  "e": -1.0,
+  "comp": [
+   96.61,
+   129.99,
+   82.33
+  ],
+  "conf": "Low (default -1.0)"
+ },
+ {
+  "id": "cool5",
+  "cat": "cool_stuff",
+  "p0": 94.21,
+  "q0": 6.0,
+  "e": -1.0,
+  "comp": [
+   96.61,
+   129.99,
+   56.66
+  ],
+  "conf": "Low (default -1.0)"
+ },
+ {
+  "id": "furniture1",
+  "cat": "furniture_decor",
+  "p0": 35.0,
+  "q0": 13.0,
+  "e": -8.91,
+  "comp": [
+   94.34,
+   35.0,
+   87.42
+  ],
+  "conf": "Medium"
+ },
+ {
+  "id": "furniture2",
+  "cat": "furniture_decor",
+  "p0": 94.34,
+  "q0": 2.3,
+  "e": -10.21,
+  "comp": [
+   94.34,
+   35.0,
+   87.42
+  ],
+  "conf": "High"
+ },
+ {
+  "id": "furniture3",
+  "cat": "furniture_decor",
+  "p0": 35.0,
+  "q0": 2.3,
+  "e": -7.41,
+  "comp": [
+   87.68,
+   35.0,
+   94.54
+  ],
+  "conf": "Low (category estimate)"
+ },
+ {
+  "id": "furniture4",
+  "cat": "furniture_decor",
+  "p0": 87.42,
+  "q0": 11.0,
+  "e": -7.41,
+  "comp": [
+   94.34,
+   35.0,
+   87.42
+  ],
+  "conf": "Low (category estimate)"
+ },
+ {
+  "id": "garden1",
+  "cat": "garden_tools",
+  "p0": 96.1,
+  "q0": 6.3,
+  "e": -4.13,
+  "comp": [
+   49.91,
+   49.9,
+   49.9
+  ],
+  "conf": "High"
+ },
+ {
+  "id": "garden10",
+  "cat": "garden_tools",
+  "p0": 49.9,
+  "q0": 10.0,
+  "e": -1.2,
+  "comp": [
+   49.91,
+   49.9,
+   49.9
+  ],
+  "conf": "Low (category estimate)"
+ },
+ {
+  "id": "garden2",
+  "cat": "garden_tools",
+  "p0": 49.9,
+  "q0": 3.7,
+  "e": -1.2,
+  "comp": [
+   49.91,
+   49.9,
+   49.9
+  ],
+  "conf": "Low (category estimate)"
+ },
+ {
+  "id": "garden3",
+  "cat": "garden_tools",
+  "p0": 98.88,
+  "q0": 5.7,
+  "e": -2.54,
+  "comp": [
+   49.91,
+   49.9,
+   49.9
+  ],
+  "conf": "Medium"
+ },
+ {
+  "id": "garden4",
+  "cat": "garden_tools",
+  "p0": 49.9,
+  "q0": 8.0,
+  "e": -1.2,
+  "comp": [
+   49.91,
+   49.9,
+   49.9
+  ],
+  "conf": "Low (category estimate)"
+ },
+ {
+  "id": "garden5",
+  "cat": "garden_tools",
+  "p0": 101.0,
+  "q0": 1.3,
+  "e": -1.2,
+  "comp": [
+   52.78,
+   52.9,
+   52.72
+  ],
+  "conf": "Low (category estimate)"
+ },
+ {
+  "id": "garden6",
+  "cat": "garden_tools",
+  "p0": 49.91,
+  "q0": 8.0,
+  "e": -1.2,
+  "comp": [
+   49.91,
+   49.9,
+   49.9
+  ],
+  "conf": "Low (category estimate)"
+ },
+ {
+  "id": "garden7",
+  "cat": "garden_tools",
+  "p0": 49.9,
+  "q0": 6.0,
+  "e": -4.84,
+  "comp": [
+   49.91,
+   49.9,
+   49.9
+  ],
+  "conf": "High"
+ },
+ {
+  "id": "garden8",
+  "cat": "garden_tools",
+  "p0": 145.67,
+  "q0": 8.3,
+  "e": -1.2,
+  "comp": [
+   49.91,
+   49.9,
+   49.9
+  ],
+  "conf": "Low (category estimate)"
+ },
+ {
+  "id": "garden9",
+  "cat": "garden_tools",
+  "p0": 49.9,
+  "q0": 8.0,
+  "e": -1.2,
+  "comp": [
+   49.91,
+   49.9,
+   49.9
+  ],
+  "conf": "Low (category estimate)"
+ },
+ {
+  "id": "health1",
+  "cat": "health_beauty",
+  "p0": 84.99,
+  "q0": 4.3,
+  "e": -1.0,
+  "comp": [
+   23.99,
+   84.57,
+   58.99
+  ],
+  "conf": "Low (default -1.0)"
+ },
+ {
+  "id": "health10",
+  "cat": "health_beauty",
+  "p0": 50.73,
+  "q0": 8.3,
+  "e": -1.0,
+  "comp": [
+   23.99,
+   80.93,
+   58.99
+  ],
+  "conf": "Low (default -1.0)"
+ },
+ {
+  "id": "health2",
+  "cat": "health_beauty",
+  "p0": 330.0,
+  "q0": 19.0,
+  "e": -1.0,
+  "comp": [
+   23.99,
+   80.93,
+   58.99
+  ],
+  "conf": "Low (default -1.0)"
+ },
+ {
+  "id": "health3",
+  "cat": "health_beauty",
+  "p0": 122.99,
+  "q0": 36.0,
+  "e": -1.0,
+  "comp": [
+   23.99,
+   80.93,
+   58.99
+  ],
+  "conf": "Low (default -1.0)"
+ },
+ {
+  "id": "health4",
+  "cat": "health_beauty",
+  "p0": 29.9,
+  "q0": 12.7,
+  "e": -1.0,
+  "comp": [
+   23.99,
+   80.93,
+   58.99
+  ],
+  "conf": "Low (default -1.0)"
+ },
+ {
+  "id": "health5",
+  "cat": "health_beauty",
+  "p0": 364.0,
+  "q0": 10.3,
+  "e": -1.0,
+  "comp": [
+   23.99,
+   80.93,
+   58.99
+  ],
+  "conf": "Low (default -1.0)"
+ },
+ {
+  "id": "health6",
+  "cat": "health_beauty",
+  "p0": 66.99,
+  "q0": 27.0,
+  "e": -1.0,
+  "comp": [
+   23.99,
+   80.93,
+   58.99
+  ],
+  "conf": "Low (default -1.0)"
+ },
+ {
+  "id": "health7",
+  "cat": "health_beauty",
+  "p0": 58.99,
+  "q0": 3.7,
+  "e": -5.63,
+  "comp": [
+   23.99,
+   80.93,
+   58.99
+  ],
+  "conf": "Medium"
+ },
+ {
+  "id": "health8",
+  "cat": "health_beauty",
+  "p0": 80.93,
+  "q0": 10.0,
+  "e": -1.0,
+  "comp": [
+   23.99,
+   80.93,
+   58.99
+  ],
+  "conf": "Low (default -1.0)"
+ },
+ {
+  "id": "health9",
+  "cat": "health_beauty",
+  "p0": 23.99,
+  "q0": 2.7,
+  "e": -1.0,
+  "comp": [
+   23.99,
+   80.93,
+   58.99
+  ],
+  "conf": "Low (default -1.0)"
+ },
+ {
+  "id": "perfumery1",
+  "cat": "perfumery",
+  "p0": 49.99,
+  "q0": 4.7,
+  "e": -4.89,
+  "comp": [
+   49.99,
+   117.86,
+   49.99
+  ],
+  "conf": "Low (category estimate)"
+ },
+ {
+  "id": "perfumery2",
+  "cat": "perfumery",
+  "p0": 118.26,
+  "q0": 12.0,
+  "e": -10.46,
+  "comp": [
+   73.05,
+   118.26,
+   118.26
+  ],
+  "conf": "High"
+ },
+ {
+  "id": "watches1",
+  "cat": "watches_gifts",
+  "p0": 146.26,
+  "q0": 9.3,
+  "e": -2.73,
+  "comp": [
+   116.45,
+   105.0,
+   146.26
+  ],
+  "conf": "High"
+ },
+ {
+  "id": "watches2",
+  "cat": "watches_gifts",
+  "p0": 138.96,
+  "q0": 3.0,
+  "e": -3.05,
+  "comp": [
+   116.45,
+   105.0,
+   146.26
+  ],
+  "conf": "Low (category estimate)"
+ },
+ {
+  "id": "watches3",
+  "cat": "watches_gifts",
+  "p0": 77.94,
+  "q0": 35.7,
+  "e": -3.05,
+  "comp": [
+   116.45,
+   105.0,
+   146.26
+  ],
+  "conf": "Low (category estimate)"
+ },
+ {
+  "id": "watches4",
+  "cat": "watches_gifts",
+  "p0": 105.0,
+  "q0": 14.3,
+  "e": -3.05,
+  "comp": [
+   116.45,
+   105.0,
+   146.26
+  ],
+  "conf": "Low (category estimate)"
+ },
+ {
+  "id": "watches5",
+  "cat": "watches_gifts",
+  "p0": 206.52,
+  "q0": 15.3,
+  "e": -3.05,
+  "comp": [
+   108.96,
+   105.21,
+   144.85
+  ],
+  "conf": "Low (category estimate)"
+ },
+ {
+  "id": "watches6",
+  "cat": "watches_gifts",
+  "p0": 116.45,
+  "q0": 7.0,
+  "e": -3.11,
+  "comp": [
+   116.45,
+   105.0,
+   146.26
+  ],
+  "conf": "Medium"
+ },
+ {
+  "id": "watches7",
+  "cat": "watches_gifts",
+  "p0": 224.74,
+  "q0": 24.0,
+  "e": -3.16,
+  "comp": [
+   113.72,
+   105.0,
+   141.92
+  ],
+  "conf": "High"
+ },
+ {
+  "id": "watches8",
+  "cat": "watches_gifts",
+  "p0": 155.91,
+  "q0": 9.3,
+  "e": -4.11,
+  "comp": [
+   116.45,
+   105.0,
+   146.26
+  ],
+  "conf": "High"
+ }
+]

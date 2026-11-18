@@ -1,0 +1,10 @@
+category,n_products,n_obs,elasticity,std_err,t_stat,type
+furniture_decor,4,48,-7.411,1.791,-4.138,Elastic (price-sensitive)
+perfumery,2,26,-4.89,2.312,-2.115,Elastic (price-sensitive)
+watches_gifts,7,88,-3.048,0.598,-5.096,Elastic (price-sensitive)
+computers_accessories,5,61,-2.485,0.93,-2.673,Elastic (price-sensitive)
+bed_bath_table,4,56,-2.476,2.079,-1.191,Elastic (price-sensitive)
+consoles_games,2,22,-2.419,0.849,-2.85,Elastic (price-sensitive)
+garden_tools,10,160,-1.196,0.852,-1.403,Elastic (price-sensitive)
+health_beauty,5,83,0.192,1.759,0.109,Unreliable (positive)
+cool_stuff,4,50,4.31,2.414,1.785,Unreliable (positive)
