@@ -1,0 +1,10 @@
+$text = @"
+[theme]
+base = "light"
+primaryColor = "#6c5ce7"
+backgroundColor = "#fbfaff"
+secondaryBackgroundColor = "#f0edff"
+textColor = "#1b1f3b"
+font = "sans serif"
+"@
+[System.IO.File]::WriteAllText("$PWD\.streamlit\config.toml", $text)
